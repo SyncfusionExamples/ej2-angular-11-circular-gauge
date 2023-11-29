@@ -44,7 +44,7 @@ The Angular Circular Gauge component provides a visually appealing way to view i
 The interactive Angular Circular Gauge component lets you drag the pointer from one place to another. Swipe gestures can be used to control the pointer, and the value is changed at runtime.
 
 ## Related links
-[Learn More about Angular Stock Chart](https://www.syncfusion.com/angular-components/angular-circular-gauge?utm_source=github&utm_medium=listing&utm_campaign=angular-circular-gauge-github-samples)
+[Learn More about Angular Circular Gauge](https://www.syncfusion.com/angular-components/angular-circular-gauge?utm_source=github&utm_medium=listing&utm_campaign=angular-circular-gauge-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-circular-gauge-github-samples)
 
