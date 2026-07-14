@@ -1,8 +1,11 @@
 
 import { Component, OnInit } from '@angular/core';
+import { CircularGaugeModule, GaugeTooltipService } from '@syncfusion/ej2-angular-circulargauge';
 
 @Component({
 selector: 'app-container',
+imports: [ CircularGaugeModule],
+providers: [ GaugeTooltipService ],
 template:
 `<ejs-circulargauge id="circular-container">
     <e-axes>
