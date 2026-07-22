@@ -64,18 +64,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "circular11gauge:build"
+            "buildTarget": "circular11gauge:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "circular11gauge:build:production"
+              "buildTarget": "circular11gauge:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "circular11gauge:build"
+            "buildTarget": "circular11gauge:build"
           }
         },
         "test": {
